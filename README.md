@@ -2,7 +2,7 @@
 
 Convert inline markdown images to captioned figures.
 
-Inspirated by [markdown-img2fig](https://github.com/Evidlo/markdown_captions) and [yafg](https://git.sr.ht/~ferruck/yafg).
+Inspirated by [markdown-captions](https://github.com/Evidlo/markdown_captions) and [yafg](https://git.sr.ht/~ferruck/yafg).
 
 ## Installation
 
