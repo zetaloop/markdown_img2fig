@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="markdown-img2fig",
-    version="1.0.0",
+    version="1.0.1",
     author="zetaloop",
     author_email="zetaloop@outlook.com",
     description="Convert markdown imgs into captioned <figure>s",
